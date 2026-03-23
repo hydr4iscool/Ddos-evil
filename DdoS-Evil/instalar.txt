@@ -1,13 +1,9 @@
-para instalarlo sigue estos pasos
-ya tienes la carpeta
-cd DdoS-Evil
 
+cd DdoS-Evil
 chmod 777 -R DDoSEvil 
 cd DDoSEvil 
 chmod +x * 
 bash install.sh 
 bash ddosevil.sh
 
-si tenes algun problema me avisas uwu
-
-ojo preferiblemente todo desde linux y la terminal
+si tenes algun problema me avisas uwu
